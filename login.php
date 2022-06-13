@@ -301,6 +301,10 @@
     <script src="././js/plugins.js"></script>
     <script src="././js/main.js"></script>
     
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+    async defer>
+</script>
+    
     <script type="text/javascript">
   var onloadCallback = function() {
     alert("grecaptcha is ready!");
