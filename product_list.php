@@ -60,33 +60,33 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav>                                                
                                         <ul id="navigation">                                                                                                                                     
-                                            <li><a href="index.html">Inicio</a></li>
-                                            <li><a href="Catagori.html">Catagorias</a></li>
+                                            <li><a href="index.php">Inicio</a></li>
+                                            <li><a href="Catagori.php">Catagorias</a></li>
                                             <li class="hot"><a href="#">
                                                 Más reciente</a>
                                                 <ul class="submenu">
-                                                    <li><a href="product_list.html"> Lista de productos</a></li>
-                                                    <li><a href="single-product.html"> Detalles de producto</a></li>
+                                                    <li><a href="product_list.php"> Lista de productos</a></li>
+                                                    <li><a href="single-product.php"> Detalles de producto</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <li><a href="blog.php">Blog</a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="single-blog.html">Detalles del blog</a></li>
+                                                    <li><a href="blog.php">Blog</a></li>
+                                                    <li><a href="single-blog.php">Detalles del blog</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">Pages</a>
                                                 <ul class="submenu">
-                                                    <li><a href="login.html">Registrate</a></li>
-                                                    <li><a href="cart.html">Tarjet</a></li>
-                                                    <li><a href="about.html">Sobre nosotros</a></li>
-                                                    <li><a href="confirmation.html">Confirmacion</a></li>
-                                                    <li><a href="cart.html">Carrito de compras</a></li>
-                                                    <li><a href="checkout.html">Pago del producto
+                                                    <li><a href="login.php">Registrate</a></li>
+                                                    <li><a href="cart.php">Tarjet</a></li>
+                                                    <li><a href="about.php">Sobre nosotros</a></li>
+                                                    <li><a href="confirmation.php">Confirmacion</a></li>
+                                                    <li><a href="cart.php">Carrito de compras</a></li>
+                                                    <li><a href="checkout.php">Pago del producto
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contactanos</a></li>
+                                            <li><a href="contact.php">Contactanos</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -108,10 +108,10 @@
                                     </li>
                                     <li>
                                         <div class="shopping-card">
-                                            <a href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+                                            <a href="cart.php"><i class="fas fa-shopping-cart"></i></a>
                                         </div>
                                     </li>
-                                   <li class="d-none d-lg-block"> <a href="login.html" class="btn header-btn">Iniciar sesión</a></li>
+                                   <li class="d-none d-lg-block"> <a href="login.php" class="btn header-btn">Iniciar sesión</a></li>
                                 </ul>
                             </div>
                             <!-- Mobile Menu -->
@@ -185,7 +185,7 @@
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product6.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Cervical pillow for airplane
+                                    <h3> <a href="single-product.php">Cervical pillow for airplane
                                     car office nap pillow</a> </h3>
                                     <p>From $5</p>
                                 </div>
@@ -193,63 +193,63 @@
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product2.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Geometric striped flower home classy decor</a> </h3>
+                                    <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product5.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Foam filling cotton slow rebound pillows</a> </h3>
+                                    <h3> <a href="single-product.php">Foam filling cotton slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product6.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Memory foam filling cotton Slow rebound pillows</a> </h3>
+                                    <h3> <a href="single-product.php">Memory foam filling cotton Slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product1.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Memory foam filling cotton Slow rebound pillows</a> </h3>
+                                    <h3> <a href="single-product.php">Memory foam filling cotton Slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product4.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Sleeping orthopedic sciatica Back Hip Joint Pain relief</a> </h3>
+                                    <h3> <a href="single-product.php">Sleeping orthopedic sciatica Back Hip Joint Pain relief</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product5.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Memory foam filling cotton Slow rebound pillows</a> </h3>
+                                    <h3> <a href="single-product.php">Memory foam filling cotton Slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product3.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Sleeping orthopedic sciatica Back Hip Joint Pain relief</a> </h3>
+                                    <h3> <a href="single-product.php">Sleeping orthopedic sciatica Back Hip Joint Pain relief</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product2.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Geometric striped flower home classy decor</a> </h3>
+                                    <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
                                     <img src="assets/img/categori/product1.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.html">Geometric striped flower home classy decor</a> </h3>
+                                    <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
@@ -357,7 +357,7 @@
                          <div class="single-footer-caption mb-30">
                               <!-- logo -->
                              <div class="footer-logo">
-                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                 <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
                              </div>
                              <div class="footer-tittle">
                                  <div class="footer-pera">

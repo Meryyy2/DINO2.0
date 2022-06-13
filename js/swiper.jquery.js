@@ -1140,7 +1140,7 @@
                     s.paginationContainer.find('.' + s.params.paginationProgressbarClass).transform('translate3d(0,0,0) scaleX(' + scaleX + ') scaleY(' + scaleY + ')').transition(s.params.speed);
                 }
                 if (s.params.paginationType === 'custom' && s.params.paginationCustomRender) {
-                    s.paginationContainer.html(s.params.paginationCustomRender(s, current + 1, total));
+                    s.paginationContainer.php(s.params.paginationCustomRender(s, current + 1, total));
                     s.emit('onPaginationRendered', s, s.paginationContainer[0]);
                 }
             }
