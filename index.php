@@ -1224,36 +1224,31 @@
     </section>
     <!-- subscribe part end -->
      <!-- client review part here -->
-     <section class="client_review">
+    <section class="client_review">
         <div class="container">
-            <div class="heading_container heading_center">
-                <h2>
-                   FUNDADORES DE DINOFASHION
-                </h2>
-             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="./img/hero/category.jpg" alt="#">
+                                <img src="assets/img/client.png" alt="#">
                             </div>
-                            <h3>"Gerente General"</h3>
-                            <h5>-Maria Valverde</h5>
+                            <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
+                            <h5>- Micky Mouse</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/dino/ashly.jpeg" alt="#">
+                                <img src="assets/img/client_1.png" alt="#">
                             </div>
-                            <h3>"Gerente Financiero".</h3>
-                            <h5>- Ashly Ramos</h5>
+                            <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
+                            <h5>- Micky Mouse</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/dino/Josias.jpeg" alt="#">
+                                <img src="assets/img/client_2.png" alt="#">
                             </div>
-                            <h3>".</h3>
-                            <h5>-Josias Nicaragua</h5>
+                            <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
+                            <h5>- Micky Mouse</h5>
                         </div>
                     </div>
                 </div>
@@ -1350,42 +1345,41 @@
        <!-- Footer End-->
 
    </footer>
-   
-	<!-- JS here -->
+   	<!-- JS here -->
 	
 		<!-- All JS Custom Plugins Link Here here -->
-        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
 		<!-- Jquery, Popper, Bootstrap -->
-		<script src="js/vendor/jquery-1.12.4.min.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
+		<script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="./assets/js/popper.min.js"></script>
+        <script src="./assets/js/bootstrap.min.js"></script>
 	    <!-- Jquery Mobile Menu -->
-        <script src="js/jquery.slicknav.min.js"></script>
+        <script src="./assets/js/jquery.slicknav.min.js"></script>
 
 		<!-- Jquery Slick , Owl-Carousel Plugins -->
-        <script src="js/owl.carousel.min.js"></script>
-        <script src="./js/slick.min.js"></script>
+        <script src="./assets/js/owl.carousel.min.js"></script>
+        <script src="./assets/js/slick.min.js"></script>
 
 		<!-- One Page, Animated-HeadLin -->
-        <script src="js/wow.min.js"></script>
-		<script src="js/animated.headline.js"></script>
-        <script src="js/jquery.magnific-popup.js"></script>
+        <script src="./js/wow.min.js"></script>
+		<script src="./js/animated.headline.js"></script>
+        <script src="./assets/js/jquery.magnific-popup.js"></script>
 
 		<!-- Scrollup, nice-select, sticky -->
-        <script src="js/jquery.scrollUp.min.js"></script>
-        <script src="js/jquery.nice-select.min.js"></script>
-		<script src="js/jquery.sticky.js"></script>
+        <script src="./js/jquery.scrollUp.min.js"></script>
+        <script src="./js/jquery.nice-select.min.js"></script>
+		<script src="./assets/js/jquery.sticky.js"></script>
         
         <!-- contact js -->
-        <script src="js/contact.js"></script>
-        <script src="js/jquery.form.js"></script>
-        <script src="js/jquery.validate.min.js"></script>
-        <script src="js/mail-script.js"></script>
-        <script src="js/jquery.ajaxchimp.min.js"></script>
+        <script src="./js/contact.js"></script>
+        <script src="./js/jquery.form.js"></script>
+        <script src="./js/jquery.validate.min.js"></script>
+        <script src="./js/mail-script.js"></script>
+        <script src="./js/jquery.ajaxchimp.min.js"></script>
         
 		<!-- Jquery Plugins, main Jquery -->	
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-        
+        <script src="./js/plugins.js"></script>
+        <script src="./js/main.js"></script>
+	
     </body>
 </html>
