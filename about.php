@@ -32,7 +32,7 @@
                 <div class="preloader-inner position-relative">
                     <div class="preloader-circle"></div>
                     <div class="preloader-img pere-text">
-                        <img src="img/logo.jpeg" alt="">
+                        <img src="img/dino/logo.jpeg" alt="">
                     </div>
                 </div>
             </div>
