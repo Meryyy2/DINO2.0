@@ -184,22 +184,22 @@
                         <div class="row">
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="./img/categori/product6.png" alt="" class="img-fluid">
-                                    <h3> <a href="single-product.php">Cervical pillow for airplane
-                                    car office nap pillow</a> </h3>
+                                    <img src="img/dino/Dino_01.jpg" alt="" class="img-fluid">
+                                    <h3> <a href="single-product.php">Sueter
+                                   Color Rojo</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="./img/categori/product2.png" alt="" class="img-fluid">
+                                    <img src="https://www.dhresource.com/0x0/f2/albu/g15/M00/FF/27/rBVa3V_6O6qAHeeNAAcbSE2nIZ4584.jpg" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="./img/categori/product5.png" alt="" class="img-fluid">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPN4Lbcb7-qUd0iffgRkEyy989wQCT9J4-w&usqp=CAU" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Foam filling cotton slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
