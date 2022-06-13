@@ -139,9 +139,9 @@
                             </div>
                             <div class="col-xl-5 col-lg-5 col-md-5 col-sm-8">
                                 <div class="hero__caption">
-                                    <span data-animation="fadeInRight" data-delay=".4s">60% Discount</span>
-                                    <h1 data-animation="fadeInRight" data-delay=".6s">Winter <br> Collection</h1>
-                                    <p data-animation="fadeInRight" data-delay=".8s">Best Cloth Collection By 2020!</p>
+                                    <span data-animation="fadeInRight" data-delay=".4s">60% de descuento</span>
+                                    <h1 data-animation="fadeInRight" data-delay=".6s">Nueva <br> Coleccion</h1>
+                                    <p data-animation="fadeInRight" data-delay=".8s">¡La mejor colección de telas para 2020!</p>
                                     <!-- Hero-btn -->
                                     <div class="hero__btn" data-animation="fadeInRight" data-delay="1s">
                                         <a href="industries.php" class="btn hero-btn">Shop Now</a>
