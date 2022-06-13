@@ -556,10 +556,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -612,10 +612,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -639,10 +639,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -665,10 +665,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -705,10 +705,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -731,10 +731,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -757,10 +757,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -786,10 +786,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -812,10 +812,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -841,10 +841,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -874,10 +874,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -900,10 +900,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -929,10 +929,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -958,10 +958,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -984,10 +984,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -1012,10 +1012,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              comprar ahora
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              añadir al carrito
                                            </a>
                                         </div>
                                      </div>
@@ -1042,10 +1042,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -1070,10 +1070,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -1095,10 +1095,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -1124,10 +1124,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              Comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -1149,10 +1149,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
@@ -1161,7 +1161,7 @@
                                     </div>
                                     <div class="detail-box">
                                         <h5>
-                                           Camis Dino
+                                           Camisa Dino
                                         </h5>
                                         <h6>
                                            $40
@@ -1175,10 +1175,10 @@
                                     <div class="option_container">
                                         <div class="options">
                                            <a href="" class="option1">
-                                              Add To Cart
+                                              Añadir al carrito
                                            </a>
                                            <a href="" class="option2">
-                                              Buy Now
+                                              comprar ahora
                                            </a>
                                         </div>
                                      </div>
