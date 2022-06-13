@@ -159,7 +159,7 @@
                 <td>
                   <div class="media">
                     <div class="d-flex">
-                      <img src="./img/arrivel/arrivel_1.png" alt="" />
+                      <img src="img/dino/Dino_01.jpg" alt="" />
                     </div>
                     <div class="media-body">
                       <p>Minimalistic shop for multipurpose use</p>
@@ -194,7 +194,7 @@
                 <td>
                   <div class="media">
                     <div class="d-flex">
-                      <img src="./img/arrivel/arrivel_2.png" alt="" />
+                      <img src="img/dino/Dino_03.jpg" alt="" />
                     </div>
                     <div class="media-body">
                       <p>Minimalistic shop for multipurpose use</p>
