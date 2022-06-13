@@ -13,18 +13,18 @@
  
 
     <!-- CSS here -->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/css/flaticon.css">
-        <link rel="stylesheet" href="assets/css/slicknav.css">
-        <link rel="stylesheet" href="assets/css/animate.min.css">
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-        <link rel="stylesheet" href="assets/css/themify-icons.css">
-        <link rel="stylesheet" href="assets/css/slick.css">
-        <link rel="stylesheet" href="assets/css/nice-select.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/layout.css">
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" href="./css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./css/flaticon.css">
+        <link rel="stylesheet" href="./css/slicknav.css">
+        <link rel="stylesheet" href="./css/animate.min.css">
+        <link rel="stylesheet" href="./css/magnific-popup.css">
+        <link rel="stylesheet" href="./css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="./css/themify-icons.css">
+        <link rel="stylesheet" href="./css/slick.css">
+        <link rel="stylesheet" href="./css/nice-select.css">
+        <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="./css/layout.css">
 
 </head>
 
@@ -129,7 +129,7 @@
     <!-- slider Area Start-->
     <div class="slider-area ">
         <!-- Mobile Menu -->
-        <div class="single-slider slider-height2 d-flex align-items-center" data-background="assets/img/hero/category.jpg">
+        <div class="single-slider slider-height2 d-flex align-items-center" data-background="./img/hero/category.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
@@ -184,7 +184,7 @@
                         <div class="row">
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product6.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product6.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Cervical pillow for airplane
                                     car office nap pillow</a> </h3>
                                     <p>From $5</p>
@@ -192,63 +192,63 @@
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product2.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product2.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product5.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product5.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Foam filling cotton slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product6.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product6.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Memory foam filling cotton Slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product1.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product1.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Memory foam filling cotton Slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product4.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product4.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Sleeping orthopedic sciatica Back Hip Joint Pain relief</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product5.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product5.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Memory foam filling cotton Slow rebound pillows</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product3.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product3.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Sleeping orthopedic sciatica Back Hip Joint Pain relief</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product2.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product2.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="single_product_item">
-                                    <img src="assets/img/categori/product1.png" alt="" class="img-fluid">
+                                    <img src="./img/categori/product1.png" alt="" class="img-fluid">
                                     <h3> <a href="single-product.php">Geometric striped flower home classy decor</a> </h3>
                                     <p>From $5</p>
                                 </div>
@@ -272,21 +272,21 @@
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="assets/img/client.png" alt="#">
+                                <img src="./img/client.png" alt="#">
                             </div>
                             <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
                             <h5>- Micky Mouse</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="assets/img/client_1.png" alt="#">
+                                <img src="./img/client_1.png" alt="#">
                             </div>
                             <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
                             <h5>- Micky Mouse</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="assets/img/client_2.png" alt="#">
+                                <img src="./img/client_2.png" alt="#">
                             </div>
                             <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
                             <h5>- Micky Mouse</h5>
@@ -357,7 +357,7 @@
                          <div class="single-footer-caption mb-30">
                               <!-- logo -->
                              <div class="footer-logo">
-                                 <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                 <a href="index.php"><img src="./img/logo/logo2_footer.png" alt=""></a>
                              </div>
                              <div class="footer-tittle">
                                  <div class="footer-pera">
@@ -436,46 +436,46 @@
 
 <!-- JS here -->
         <!-- All JS Custom Plugins Link Here here -->
-        <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="././js/vendor/modernizr-3.5.0.min.js"></script>
         
         <!-- Jquery, Popper, Bootstrap -->
-        <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-        <script src="./assets/js/popper.min.js"></script>
-        <script src="./assets/js/bootstrap.min.js"></script>
+        <script src="././js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="././js/popper.min.js"></script>
+        <script src="././js/bootstrap.min.js"></script>
         <!-- Jquery Mobile Menu -->
-        <script src="./assets/js/jquery.slicknav.min.js"></script>
+        <script src="././js/jquery.slicknav.min.js"></script>
 
         <!-- Jquery Slick , Owl-Carousel Plugins -->
-        <script src="./assets/js/owl.carousel.min.js"></script>
-        <script src="./assets/js/slick.min.js"></script>
+        <script src="././js/owl.carousel.min.js"></script>
+        <script src="././js/slick.min.js"></script>
 
         <!-- One Page, Animated-HeadLin -->
-        <script src="./assets/js/wow.min.js"></script>
-        <script src="./assets/js/animated.headline.js"></script>
-        <script src="./assets/js/jquery.magnific-popup.js"></script>
+        <script src="././js/wow.min.js"></script>
+        <script src="././js/animated.headline.js"></script>
+        <script src="././js/jquery.magnific-popup.js"></script>
 
         <!-- Scrollup, nice-select, sticky -->
-        <script src="./assets/js/jquery.scrollUp.min.js"></script>
-        <script src="./assets/js/jquery.nice-select.min.js"></script>
-        <script src="./assets/js/jquery.sticky.js"></script>
+        <script src="././js/jquery.scrollUp.min.js"></script>
+        <script src="././js/jquery.nice-select.min.js"></script>
+        <script src="././js/jquery.sticky.js"></script>
         
         <!-- contact js -->
-        <script src="./assets/js/contact.js"></script>
-        <script src="./assets/js/jquery.form.js"></script>
-        <script src="./assets/js/jquery.validate.min.js"></script>
-        <script src="./assets/js/mail-script.js"></script>
-        <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="././js/contact.js"></script>
+        <script src="././js/jquery.form.js"></script>
+        <script src="././js/jquery.validate.min.js"></script>
+        <script src="././js/mail-script.js"></script>
+        <script src="././js/jquery.ajaxchimp.min.js"></script>
         
         <!-- Jquery Plugins, main Jquery -->    
-        <script src="./assets/js/plugins.js"></script>
-        <script src="./assets/js/main.js"></script>
+        <script src="././js/plugins.js"></script>
+        <script src="././js/main.js"></script>
 
         <!-- swiper js -->
-        <script src="./assets/js/swiper.min.js"></script>
+        <script src="././js/swiper.min.js"></script>
             <!-- swiper js -->
-        <script src="./assets/js/mixitup.min.js"></script>
-        <script src="./assets/js/jquery.counterup.min.js"></script>
-        <script src="./assets/js/waypoints.min.js"></script>
+        <script src="././js/mixitup.min.js"></script>
+        <script src="././js/jquery.counterup.min.js"></script>
+        <script src="././js/waypoints.min.js"></script>
 
 
 </body>
