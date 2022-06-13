@@ -353,11 +353,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="btn-box" data-aos="fade-up">
-                            <a href="Catagori.php">
-                              Ver todos los productos
-                            </a>
-                         </div>
+                        
                     </div>
                     <!-- Card two -->
                     <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
