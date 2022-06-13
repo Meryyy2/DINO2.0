@@ -1231,21 +1231,21 @@
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="assets/img/client.png" alt="#">
+                                <img src="./img/dino/yo.jpeg" alt="#">
                             </div>
                             <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
                             <h5>- Micky Mouse</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="assets/img/client_1.png" alt="#">
+                                <img src="./img/client_1.png" alt="#">
                             </div>
                             <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
                             <h5>- Micky Mouse</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="assets/img/client_2.png" alt="#">
+                                <img src="./img/client_2.png" alt="#">
                             </div>
                             <p>"Working in conjunction with humanitarian aid agencies, we have supported programmes to help alleviate human suffering.</p>
                             <h5>- Micky Mouse</h5>
