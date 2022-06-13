@@ -208,44 +208,7 @@
     </section>
     <!-- feature part end -->
     
-     <!-- client review part here -->
-     <section class="client_review">
-        <div class="container">
-            <div class="heading_container heading_center"data-aos="fade-up">
-                <h2>
-                   FUNDADORES DE DINOFASHION
-                </h2>
-             </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="client_review_slider owl-carousel">
-                        <div class="single_client_review">
-                            <div class="client_img">
-                                <img src="img/dino/yo.jpeg" alt="#">
-                            </div>
-                            <h3>"Gerente General"</h3>
-                            <h5>- Maria Valverde</h5>
-                        </div>
-                        <div class="single_client_review">
-                            <div class="client_img">
-                                <img src="img/dino/ashly.jpeg" alt="#">
-                            </div>
-                            <h3>"Gerente Financiero".</h3>
-                            <h5>- Ashly Ramos</h5>
-                        </div>
-                        <div class="single_client_review">
-                            <div class="client_img">
-                                <img src="img/dino/Josias.jpeg" alt="#">
-                            </div>
-                            <h3>".</h3>
-                            <h5>-Josias Nicaragua</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- client review part end -->
+     
         
 
     <!-- subscribe part here -->
