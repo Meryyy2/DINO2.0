@@ -1,4 +1,4 @@
-<!doctype php>
+<!doctype html>
 <php lang="zxx">
 
 <head>
@@ -102,7 +102,7 @@
                                             <a href="cart.php"><i class="fas fa-shopping-cart"></i></a>
                                         </div>
                                     </li>
-                                   <li class="d-none d-lg-block"> <a href="#" class="btn header-btn">Iniciar sesión</a></li>
+                                  
                                 </ul>
                             </div>
                             <!-- Mobile Menu -->
