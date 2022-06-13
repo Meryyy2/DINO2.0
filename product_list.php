@@ -79,7 +79,7 @@
                                             <li><a href="#">Pages</a>
                                                 <ul class="submenu">
                                                     <li><a href="login.php">Registrate</a></li>
-                                                    <li><a href="cart.php">Tarjet</a></li>
+                                                    <li><a href="cart.php">Tarjeta</a></li>
                                                     <li><a href="about.php">Sobre nosotros</a></li>
                                                     <li><a href="cart.php">Carrito de compras</a></li>
                                                     <li><a href="checkout.php">Pago del producto
@@ -134,7 +134,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="hero-cap text-center">
-                            <h2>product list</h2>
+                            <h2>Lista de productos</h2>
                         </div>
                     </div>
                 </div>
@@ -159,21 +159,21 @@
                             <div class="select_option">
                                 <div class="select_option_list">Category <i class="right fas fa-caret-down"></i> </div>
                                 <div class="select_option_dropdown">
-                                    <p><a href="#">Category 1</a></p>
-                                    <p><a href="#">Category 2</a></p>
-                                    <p><a href="#">Category 3</a></p>
-                                    <p><a href="#">Category 4</a></p>
+                                    <p><a href="#">Categoria 1</a></p>
+                                    <p><a href="#">Categoria 2</a></p>
+                                    <p><a href="#">Categoria 3</a></p>
+                                    <p><a href="#">Categoria 4</a></p>
                                 </div>
                             </div>
                         </div>
                         <div class="single_sedebar">
                             <div class="select_option">
-                                <div class="select_option_list">Type <i class="right fas fa-caret-down"></i> </div>
+                                <div class="select_option_list">Tipos <i class="right fas fa-caret-down"></i> </div>
                                 <div class="select_option_dropdown">
-                                    <p><a href="#">Type 1</a></p>
-                                    <p><a href="#">Type 2</a></p>
-                                    <p><a href="#">Type 3</a></p>
-                                    <p><a href="#">Type 4</a></p>
+                                    <p><a href="#">Tipo 1</a></p>
+                                    <p><a href="#">Tipo 2</a></p>
+                                    <p><a href="#">Tipo 3</a></p>
+                                    <p><a href="#">Tipo 4</a></p>
                                 </div>
                             </div>
                         </div>
