@@ -127,7 +127,7 @@
   <!-- slider Area Start-->
   <div class="slider-area ">
     <!-- Mobile Menu -->
-    <div class="single-slider slider-height2 d-flex align-items-center" data-background=/img/hero/category.jpg">
+    <div class="single-slider slider-height2 d-flex align-items-center" data-background="/img/hero/category.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -152,7 +152,7 @@
 
                         </p>
                         <div class="about_us_video">
-                            <img src="img/logo.jpeg" alt="#" class="img-fluid">
+                            <img src="img/dino/logo.jpeg" alt="#" class="img-fluid">
                             <a class="about_video_icon popup-youtube" href="https://www.youtube.com/watch?v=DWHB6nTyKDI"></a>
                         </div>
                     </div>
@@ -182,25 +182,25 @@
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_feature_part">
-                        <img src=/img/icon/feature_icon_1.svg" alt="#">
+                        <img src="./img/icon/feature_icon_1.svg" alt="#">
                         <h4>Soporte de tarjeta de crédito</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_feature_part">
-                        <img src=/img/icon/feature_icon_2.svg" alt="#">
+                        <img src="./img/icon/feature_icon_2.svg" alt="#">
                         <h4>Pedido en línea</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_feature_part">
-                        <img src=/img/icon/feature_icon_3.svg" alt="#">
+                        <img src="./img/icon/feature_icon_3.svg" alt="#">
                         <h4>Entrega gratis</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_feature_part">
-                        <img src=/img/icon/feature_icon_4.svg" alt="#">
+                        <img src="./img/icon/feature_icon_4.svg" alt="#">
                         <h4>Producto con Regalo</h4>
                     </div>
                 </div>
@@ -278,7 +278,7 @@
                          <div class="single-footer-caption mb-30">
                               <!-- logo -->
                              <div class="footer-logo">
-                                 <a href="index.php"><img src=/img/logo/logo2_footer.png" alt=""></a>
+                                 <a href="index.php"><img src="/img/logo/logo2_footer.png" alt=""></a>
                              </div>
                              <div class="footer-tittle">
                                  <div class="footer-pera">
