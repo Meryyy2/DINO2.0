@@ -1236,7 +1236,7 @@
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/dino/yo.jpeg" alt="#">
+                                <img src="./img/dino/yo.jpeg" alt="#">
                             </div>
                             <h3>"Gerente General"</h3>
                             <h5>-Maria Valverde</h5>
