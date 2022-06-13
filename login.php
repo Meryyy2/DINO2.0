@@ -301,12 +301,14 @@
     <script src="././js/plugins.js"></script>
     <script src="././js/main.js"></script>
     
-    <script type="text/javascript">
-  var onloadCallback = function() {
-    alert("grecaptcha is ready!");
-  };
+    <script src="https://www.google.com/recaptcha/enterprise.js?render=6Lf8rmcgAAAAAGqyHoBN-WQILdathjLC2BcmalqT"></script>
+<script>
+grecaptcha.enterprise.ready(function() {
+    grecaptcha.enterprise.execute('6Lf8rmcgAAAAAGqyHoBN-WQILdathjLC2BcmalqT', {action: 'login'}).then(function(token) {
+       ...
+    });
+});
 </script>
-    
     <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
     async defer>
 </script>
