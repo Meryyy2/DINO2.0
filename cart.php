@@ -148,9 +148,9 @@
           <table class="table">
             <thead>
               <tr>
-                <th scope="col">Product</th>
-                <th scope="col">Price</th>
-                <th scope="col">Quantity</th>
+                <th scope="col">Producto</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Cantidad</th>
                 <th scope="col">Total</th>
               </tr>
             </thead>
@@ -217,13 +217,13 @@
               </tr>
               <tr class="bottom_button">
                 <td>
-                  <a class="btn_1" href="#">Update Cart</a>
+                  <a class="btn_1" href="#">Subir al carro</a>
                 </td>
                 <td></td>
                 <td></td>
                 <td>
                   <div class="cupon_text float-right">
-                    <a class="btn_1" href="#">Close Coupon</a>
+                    <a class="btn_1" href="#">Adquirir cupon</a>
                   </div>
                 </td>
               </tr>
@@ -268,24 +268,24 @@
                       <i class="fa fa-caret-down" aria-hidden="true"></i>
                     </h6>
                     <select class="shipping_select">
-                      <option value="1">Bangladesh</option>
-                      <option value="2">India</option>
-                      <option value="4">Pakistan</option>
+                      <option value="1">Europa</option>
+                      <option value="2">Rusia</option>
+                      <option value="4">Estados Unidos</option>
                     </select>
                     <select class="shipping_select section_bg">
-                      <option value="1">Select a State</option>
-                      <option value="2">Select a State</option>
-                      <option value="4">Select a State</option>
+                      <option value="1">Seleccionar estado</option>
+                      <option value="2">Seleccionar estado</option>
+                      <option value="4">Seleccionar estado</option>
                     </select>
                     <input class="post_code" type="text" placeholder="Postcode/Zipcode" />
-                    <a class="btn_1" href="#">Update Details</a>
+                    <a class="btn_1" href="#">Detalles</a>
                   </div>
                 </td>
               </tr>
             </tbody>
           </table>
           <div class="checkout_btn_inner float-right">
-            <a class="btn_1" href="#">Continue Shopping</a>
+            <a class="btn_1" href="#">Continuar comprando</a>
             <a class="btn_1 checkout_btn_1" href="#">Proceed to checkout</a>
           </div>
         </div>
