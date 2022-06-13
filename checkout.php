@@ -76,7 +76,7 @@
                                         <li><a href="#">Pages</a>
                                             <ul class="submenu">
                                                 <li><a href="login.php">Registrate</a></li>
-                                                <li><a href="cart.php">Tarjet</a></li>
+                                                <li><a href="cart.php">Tarjeta</a></li>
                                                 <li><a href="about.php">Sobre nosotros</a></li>
                                                 <li><a href="cart.php">Carrito de compras</a></li>
                                                 <li><a href="checkout.php">Pago del producto
@@ -232,9 +232,9 @@
               </div>
               <div class="col-md-12 form-group p_star">
                 <select class="country_select">
-                  <option value="1">District</option>
-                  <option value="2">District</option>
-                  <option value="4">District</option>
+                  <option value="1">Distrito</option>
+                  <option value="2">Distrito</option>
+                  <option value="4">Distrito</option>
                 </select>
               </div>
               <div class="col-md-12 form-group">
