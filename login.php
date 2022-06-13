@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+     <script src="https://www.google.com/recaptcha/api.js"></script>
     <title>Login </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -169,7 +169,10 @@
                                         <label for="f-option">Remember me</label>
                                     </div>
                                           <div class="g-recaptcha" data-sitekey="6LdwAWkgAAAAAJPZAifBt3Xu9JrMIVwLHNLF3o8ww"></div>
-                                    <button type="submit" value="submit" class="btn_3">
+                                    <button type="submit" class="g-recaptcha" 
+        data-sitekey="6Lf8rmcgAAAAAGqyHoBN-WQILdathjLC2BcmalqT" 
+        data-callback='onSubmit' 
+        data-action='submit value="submit" class="btn_3">
                                         log in
                                     </button>
                                     <a class="lost_pass" href="#">forget password?</a>
@@ -301,17 +304,11 @@
     <script src="././js/plugins.js"></script>
     <script src="././js/main.js"></script>
     
-    <script src="https://www.google.com/recaptcha/enterprise.js?render=6Lf8rmcgAAAAAGqyHoBN-WQILdathjLC2BcmalqT"></script>
 <script>
-grecaptcha.enterprise.ready(function() {
-    grecaptcha.enterprise.execute('6Lf8rmcgAAAAAGqyHoBN-WQILdathjLC2BcmalqT', {action: 'login'}).then(function(token) {
-       ...
-    });
-});
-</script>
-    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
-    async defer>
-</script>
+   function onSubmit(token) {
+     document.getElementById("demo-form").submit();
+   }
+ </script>
     
     
 
