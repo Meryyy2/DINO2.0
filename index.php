@@ -1498,7 +1498,7 @@
 		<!-- Jquery Plugins, main Jquery -->	
         <script src="./js/plugins.js"></script>
         <script src="./js/main.js"></script>
-        <script src=".js/scrip.js"></script>
+        <script src="./js/scrip.js"></script>
 	
     </body>
 </html>
