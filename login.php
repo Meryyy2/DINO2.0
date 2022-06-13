@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" href="img/dino/logo.jpeg" type="image/x-icon">
+    <link rel="shortcut icon" type="image/x-icon" href="img/dino/logo.jpeg">
     <script  src = "https://kit.fontawesome.com/3e26a1e3ce.js " crossorigin = "anónimo" ></script>
   
 
