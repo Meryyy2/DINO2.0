@@ -1226,7 +1226,7 @@
      <!-- client review part here -->
      <section class="client_review">
         <div class="container">
-            <div class="heading_container heading_center"data-aos="fade-up">
+            <div class="heading_container heading_center">
                 <h2>
                    FUNDADORES DE DINOFASHION
                 </h2>
@@ -1236,7 +1236,7 @@
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="./img/dino/yo.jpeg" alt="#">
+                                <img src="./img/hero/category.jpg" alt="#">
                             </div>
                             <h3>"Gerente General"</h3>
                             <h5>-Maria Valverde</h5>
