@@ -353,11 +353,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="btn-box" data-aos="fade-up">
-                            <a href="Catagori.php">
-                              Ver todos los productos
-                            </a>
-                         </div>
+                        
                     </div>
                     <!-- Card two -->
                     <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
@@ -912,7 +908,7 @@
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
+                                    <p>Dinofashion con clara vocación internacional y con la intención de vestir a jóvenes comprometidos con su entorno, que viven en comunidad y se relacionan entre sí. Jóvenes que visten de forma relajada, huyendo de los estereotipos y que quieren sentirse bien con lo que llevan.</p>
                                </div>
                             </div>
                         </div>
@@ -921,12 +917,11 @@
                    <div class="col-xl-2 col-lg-3 col-md-3 col-sm-5">
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
-                               <h4>Quick Links</h4>
+                               <h4>enlaces rápidos</h4>
                                <ul>
-                                   <li><a href="#">About</a></li>
-                                   <li><a href="#"> Offers & Discounts</a></li>
-                                   <li><a href="#"> Get Coupon</a></li>
-                                   <li><a href="#">  Contact Us</a></li>
+                                   <li><a href="about.php">Sobre Nosotros</a></li>
+                                   <li><a href="index.php"> Inicio</a></li>
+                                   <li><a href="contact.php">  Contactanos</a></li>
                                </ul>
                            </div>
                        </div>
@@ -934,12 +929,10 @@
                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
-                               <h4>New Products</h4>
+                               <h4>nuevos productos</h4>
                                <ul>
-                                   <li><a href="#">Woman Cloth</a></li>
-                                   <li><a href="#">Fashion Accessories</a></li>
-                                   <li><a href="#"> Man Accessories</a></li>
-                                   <li><a href="#"> Rubber made Toys</a></li>
+                                   <li><a href="catagori.php">sueter</a></li>
+                                   <li><a href="catagori.php">Pantalones</a></li>
                                </ul>
                            </div>
                        </div>
@@ -947,13 +940,11 @@
                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
-                               <h4>Support</h4>
+                               <h4>Apoyo</h4>
                                <ul>
-                                <li><a href="#">Frequently Asked Questions</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Report a Payment Issue</a></li>
+                                <li><a href="#">Preguntas frecuentes</a></li>
+
+                                <li><a href="#">Informar un problema de pago</a></li>
                             </ul>
                            </div>
                        </div>
@@ -964,7 +955,7 @@
                 <div class="col-xl-7 col-lg-7 col-md-7">
                     <div class="footer-copy-right">
                         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script>  DINOFASHION todos los derechos reservados
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>                 </div>
                 </div>
                  <div class="col-xl-5 col-lg-5 col-md-5">
@@ -988,39 +979,39 @@
 	<!-- JS here -->
 	
 		<!-- All JS Custom Plugins Link Here here -->
-        <script src="././js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="./js/vendor/modernizr-3.5.0.min.js"></script>
 		
 		<!-- Jquery, Popper, Bootstrap -->
-		<script src="././js/vendor/jquery-1.12.4.min.js"></script>
-        <script src="././js/popper.min.js"></script>
-        <script src="././js/bootstrap.min.js"></script>
+		<script src="./js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="./js/popper.min.js"></script>
+        <script src="./js/bootstrap.min.js"></script>
 	    <!-- Jquery Mobile Menu -->
-        <script src="././js/jquery.slicknav.min.js"></script>
+        <script src="./js/jquery.slicknav.min.js"></script>
 
 		<!-- Jquery Slick , Owl-Carousel Plugins -->
-        <script src="././js/owl.carousel.min.js"></script>
-        <script src="././js/slick.min.js"></script>
+        <script src="./js/owl.carousel.min.js"></script>
+        <script src="./js/slick.min.js"></script>
 
 		<!-- One Page, Animated-HeadLin -->
-        <script src="././js/wow.min.js"></script>
+        <script src="./js/wow.min.js"></script>
 		<script src="././js/animated.headline.js"></script>
         <script src="././js/jquery.magnific-popup.js"></script>
 
 		<!-- Scrollup, nice-select, sticky -->
-        <script src="././js/jquery.scrollUp.min.js"></script>
+        <script src="./js/jquery.scrollUp.min.js"></script>
         <script src="././js/jquery.nice-select.min.js"></script>
 		<script src="././js/jquery.sticky.js"></script>
         
         <!-- contact js -->
-        <script src="././js/contact.js"></script>
-        <script src="././js/jquery.form.js"></script>
-        <script src="././js/jquery.validate.min.js"></script>
-        <script src="././js/mail-script.js"></script>
-        <script src="././js/jquery.ajaxchimp.min.js"></script>
+        <script src="./js/contact.js"></script>
+        <script src="./js/jquery.form.js"></script>
+        <script src="./js/jquery.validate.min.js"></script>
+        <script src="./js/mail-script.js"></script>
+        <script src="./js/jquery.ajaxchimp.min.js"></script>
         
 		<!-- Jquery Plugins, main Jquery -->	
-        <script src="././js/plugins.js"></script>
-        <script src="././js/main.js"></script>
+        <script src="./js/plugins.js"></script>
+        <script src="./js/main.js"></script>
         
     </body>
 </html>

@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="img/dino/logo.jpeg">
+    <link rel="shortcut icon" type="image/x-icon" href="./img/dino/logo.jpeg">
     <script  src = "https://kit.fontawesome.com/3e26a1e3ce.js " crossorigin = "anónimo" ></script>
   
 
@@ -182,92 +182,86 @@
     <!--================login_part end =================-->
 
     <footer>
-        <!-- Footer Start-->
-        <div class="footer-area footer-padding2">
-            <div class="container">
-                <div class="row d-flex justify-content-between">
-                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-6">
+       <!-- Footer Start-->
+       <div class="footer-area footer-padding">
+           <div class="container">
+               <div class="row d-flex justify-content-between">
+                   <div class="col-xl-3 col-lg-3 col-md-5 col-sm-6">
+                      <div class="single-footer-caption mb-50">
+                        <div class="single-footer-caption mb-30">
+                             <!-- logo -->
+                            <div class="footer-logo">
+                                <a href="index.php"><img src="./img/logo/logo2_footer.png" alt=""></a>
+                            </div>
+                            <div class="footer-tittle">
+                                <div class="footer-pera">
+                                    <p>Dinofashion con clara vocación internacional y con la intención de vestir a jóvenes comprometidos con su entorno, que viven en comunidad y se relacionan entre sí. Jóvenes que visten de forma relajada, huyendo de los estereotipos y que quieren sentirse bien con lo que llevan.</p>
+                               </div>
+                            </div>
+                        </div>
+                      </div>
+                   </div>
+                   <div class="col-xl-2 col-lg-3 col-md-3 col-sm-5">
                        <div class="single-footer-caption mb-50">
-                         <div class="single-footer-caption mb-30">
-                              <!-- logo -->
-                             <div class="footer-logo">
-                                 <a href="index.php"><img src="./img/logo/logo2_footer.png" alt=""></a>
-                             </div>
-                             <div class="footer-tittle">
-                                 <div class="footer-pera">
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
-                                </div>
-                             </div>
-                         </div>
+                           <div class="footer-tittle">
+                               <h4>enlaces rápidos</h4>
+                               <ul>
+                                   <li><a href="about.php">Sobre Nosotros</a></li>
+                                   <li><a href="index.php"> Inicio</a></li>
+                                   <li><a href="contact.php">  Contactanos</a></li>
+                               </ul>
+                           </div>
                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-3 col-md-3 col-sm-5">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Quick Links</h4>
-                                <ul>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#"> Offers & Discounts</a></li>
-                                    <li><a href="#"> Get Coupon</a></li>
-                                    <li><a href="#">  Contact Us</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>New Products</h4>
-                                <ul>
-                                    <li><a href="#">Woman Cloth</a></li>
-                                    <li><a href="#">Fashion Accessories</a></li>
-                                    <li><a href="#"> Man Accessories</a></li>
-                                    <li><a href="#"> Rubber made Toys</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Support</h4>
-                                <ul>
-                                 <li><a href="#">Frequently Asked Questions</a></li>
-                                 <li><a href="#">Terms & Conditions</a></li>
-                                 <li><a href="#">Privacy Policy</a></li>
-                                 <li><a href="#">Privacy Policy</a></li>
-                                 <li><a href="#">Report a Payment Issue</a></li>
-                             </ul>
-                            </div>
+                   </div>
+                   <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
+                       <div class="single-footer-caption mb-50">
+                           <div class="footer-tittle">
+                               <h4>nuevos productos</h4>
+                               <ul>
+                                   <li><a href="catagori.php">sueter</a></li>
+                                   <li><a href="catagori.php">Pantalones</a></li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
+                       <div class="single-footer-caption mb-50">
+                           <div class="footer-tittle">
+                               <h4>Apoyo</h4>
+                               <ul>
+                                <li><a href="#">Preguntas frecuentes</a></li>
+
+                                <li><a href="#">Informar un problema de pago</a></li>
+                            </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <!-- Footer bottom -->
+               <div class="row">
+                <div class="col-xl-7 col-lg-7 col-md-7">
+                    <div class="footer-copy-right">
+                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script>  DINOFASHION todos los derechos reservados
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>                 </div>
+                </div>
+                 <div class="col-xl-5 col-lg-5 col-md-5">
+                    <div class="footer-copy-right f-right">
+                        <!-- social -->
+                        <div class="footer-social">
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-behance"></i></a>
+                            <a href="#"><i class="fas fa-globe"></i></a>
                         </div>
                     </div>
                 </div>
-                <!-- Footer bottom -->
-                <div class="row">
-                 <div class="col-xl-7 col-lg-7 col-md-7">
-                     <div class="footer-copy-right">
-                         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>                </div>
-                 </div>
-                  <div class="col-xl-5 col-lg-5 col-md-5">
-                     <div class="footer-copy-right f-right">
-                         <!-- social -->
-                         <div class="footer-social">
-                             <a href="#"><i class="fab fa-twitter"></i></a>
-                             <a href="#"><i class="fab fa-facebook-f"></i></a>
-                             <a href="#"><i class="fab fa-behance"></i></a>
-                             <a href="#"><i class="fas fa-globe"></i></a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
             </div>
-        </div>
-    
-        <!-- Footer End-->
-    </footer>
+           </div>
+       </div>
 
+       <!-- Footer End-->
+   </footer>
 <!-- JS here -->
 
     <!-- All JS Custom Plugins Link Here here -->
