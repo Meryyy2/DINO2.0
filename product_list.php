@@ -81,7 +81,6 @@
                                                     <li><a href="login.php">Registrate</a></li>
                                                     <li><a href="cart.php">Tarjet</a></li>
                                                     <li><a href="about.php">Sobre nosotros</a></li>
-                                                    <li><a href="confirmation.php">Confirmacion</a></li>
                                                     <li><a href="cart.php">Carrito de compras</a></li>
                                                     <li><a href="checkout.php">Pago del producto
                                                     </a></li>

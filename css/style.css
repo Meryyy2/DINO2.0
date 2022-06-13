@@ -12536,110 +12536,6 @@ input:focus {
     top: 40%;
   }
 }
-
-/************** confirmation part css **********************/
-/* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .confirmation_tittle {
-  text-align: center;
-  margin-bottom: 35px;
-}
-
-/* line 6, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .confirmation_tittle span {
-  color: #2577fd;
-}
-
-/* line 11, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .single_confirmation_details {
-  background-color: #f7f7f7;
-  padding: 35px 40px;
-}
-
-@media (max-width: 991px) {
-  /* line 11, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-  .confirmation_part .single_confirmation_details {
-    margin-bottom: 15px;
-  }
-}
-
-@media only screen and (min-width: 992px) and (max-width: 1200px) {
-  /* line 11, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-  .confirmation_part .single_confirmation_details {
-    margin-bottom: 30px;
-  }
-}
-
-/* line 20, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .single_confirmation_details h4 {
-  font-size: 18px;
-  font-weight: 500;
-  color: "Poppins", sans-serif;
-  text-transform: capitalize;
-  margin-bottom: 16px;
-}
-
-/* line 28, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .single_confirmation_details ul li {
-  position: relative;
-  text-transform: capitalize;
-  padding-left: 55%;
-  margin-bottom: 3px;
-}
-
-/* line 34, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .single_confirmation_details ul li p {
-  position: absolute;
-  left: 0;
-  top: 0;
-  line-height: 21px;
-  color: #777777;
-}
-
-/* line 41, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .single_confirmation_details ul li span {
-  color: "Poppins", sans-serif;
-}
-
-/* line 47, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner {
-  margin-top: 50px;
-  background-color: #f7f7f7;
-  padding: 30px 30px 15px;
-  text-transform: capitalize;
-}
-
-/* line 52, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner h3 {
-  font-size: 18px;
-}
-
-/* line 55, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner .table thead th {
-  color: "Poppins", sans-serif;
-  font-size: 16px;
-}
-
-/* line 59, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner span {
-  color: #777777;
-}
-
-/* line 62, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner thead {
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-}
-
-/* line 66, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner tfoot {
-  border-top: 1px solid #dddddd;
-}
-
-/* line 69, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_confirmation_part.scss */
-.confirmation_part .order_details_iner th {
-  font-weight: 500;
-}
-
 /**************** blog part css start ****************/
 @media (max-width: 576px) {
   /* line 2, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_blog_part.scss */
@@ -13374,4 +13270,7 @@ input:focus {
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
   color: rgb(148, 211, 200);
+}
+p{
+ text-align: justify;
 }
