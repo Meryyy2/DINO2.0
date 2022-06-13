@@ -168,7 +168,7 @@
                                         <input type="checkbox" id="f-option" name="selector">
                                         <label for="f-option">Remember me</label>
                                     </div>
-                                          <div class="g-recaptcha" data-sitekey="6LdwAWkgAAAAAJPZAifBt3Xu9JrMIVwLHNLF3o8w"></div>
+                                          <div class="g-recaptcha" data-sitekey="6LdwAWkgAAAAAJPZAifBt3Xu9JrMIVwLHNLF3o8ww"></div>
                                     <button type="submit" value="submit" class="btn_3">
                                         log in
                                     </button>
