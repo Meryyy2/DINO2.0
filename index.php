@@ -1237,7 +1237,7 @@
                         <div class="single-footer-caption mb-30">
                              <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.php"><img src="./img/logo/logo2_footer.png" alt=""></a>
+                                <a href="index.php">DinoFashion</a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
