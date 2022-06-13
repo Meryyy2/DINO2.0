@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="img/logo.jpeg">
+    <link rel="shortcut icon" type="image/x-icon" href="img/dino/logo.jpeg">
 
     <!-- CSS here -->
         <link rel="stylesheet" href="./css/bootstrap.min.css">
@@ -36,7 +36,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="img/logo.jpeg" alt="">
+                    <img src="img/dino/logo.jpeg" alt="">
                 </div>
             </div>
         </div>
@@ -573,36 +573,36 @@
         <script src="././js/vendor/modernizr-3.5.0.min.js"></script>
 		
 		<!-- Jquery, Popper, Bootstrap -->
-		<script src="././js/vendor/jquery-1.12.4.min.js"></script>
-        <script src="././js/popper.min.js"></script>
-        <script src="././js/bootstrap.min.js"></script>
+		<script src="./js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="./js/popper.min.js"></script>
+        <script src="./js/bootstrap.min.js"></script>
 	    <!-- Jquery Mobile Menu -->
-        <script src="././js/jquery.slicknav.min.js"></script>
+        <script src="./js/jquery.slicknav.min.js"></script>
 
 		<!-- Jquery Slick , Owl-Carousel Plugins -->
-        <script src="././js/owl.carousel.min.js"></script>
-        <script src="././js/slick.min.js"></script>
+        <script src="./js/owl.carousel.min.js"></script>
+        <script src="./js/slick.min.js"></script>
 
 		<!-- One Page, Animated-HeadLin -->
-        <script src="././js/wow.min.js"></script>
-		<script src="././js/animated.headline.js"></script>
+        <script src="./js/wow.min.js"></script>
+		<script src="./js/animated.headline.js"></script>
 		
 		<!-- Scrollup, nice-select, sticky -->
-        <script src="././js/jquery.scrollUp.min.js"></script>
-        <script src="././js/jquery.nice-select.min.js"></script>
-		<script src="././js/jquery.sticky.js"></script>
-        <script src="././js/jquery.magnific-popup.js"></script>
+        <script src="./js/jquery.scrollUp.min.js"></script>
+        <script src="./js/jquery.nice-select.min.js"></script>
+		<script src="./js/jquery.sticky.js"></script>
+        <script src="./js/jquery.magnific-popup.js"></script>
 
         <!-- contact js -->
-        <script src="././js/contact.js"></script>
-        <script src="././js/jquery.form.js"></script>
-        <script src="././js/jquery.validate.min.js"></script>
-        <script src="././js/mail-script.js"></script>
-        <script src="././js/jquery.ajaxchimp.min.js"></script>
+        <script src="./js/contact.js"></script>
+        <script src="./js/jquery.form.js"></script>
+        <script src="./js/jquery.validate.min.js"></script>
+        <script src="./js/mail-script.js"></script>
+        <script src="./js/jquery.ajaxchimp.min.js"></script>
         
 		<!-- Jquery Plugins, main Jquery -->	
-        <script src="././js/plugins.js"></script>
-        <script src="././js/main.js"></script>
+        <script src="./js/plugins.js"></script>
+        <script src="./js/main.js"></script>
 
 </body>
 </php

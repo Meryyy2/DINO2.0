@@ -1,4 +1,4 @@
-<!doctype php>
+<!doctype html>
 <html lang="zxx">
 
 <head>
@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="img/logo.jpeg">
+    <link rel="shortcut icon" type="image/x-icon" href="img/dino/logo.jpeg">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="./css/bootstrap.min.css">
@@ -221,21 +221,21 @@
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/yo.jpeg" alt="#">
+                                <img src="img/dino/yo.jpeg" alt="#">
                             </div>
                             <h3>"Gerente General"</h3>
                             <h5>- Maria Valverde</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/ashly.jpeg" alt="#">
+                                <img src="img/dino/ashly.jpeg" alt="#">
                             </div>
                             <h3>"Gerente Financiero".</h3>
                             <h5>- Ashly Ramos</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/Josias.jpeg" alt="#">
+                                <img src="img/dino/Josias.jpeg" alt="#">
                             </div>
                             <h3>".</h3>
                             <h5>-Josias Nicaragua</h5>

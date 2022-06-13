@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" href="img/logo.jpeg" type="image/x-icon">
+    <link rel="shortcut icon" href="img/dino/logo.jpeg" type="image/x-icon">
  
 
     <!-- CSS here -->
@@ -35,7 +35,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="img/logo.jpeg" alt="">
+                    <img src="img/dino/logo.jpeg" alt="">
                 </div>
             </div>
         </div>

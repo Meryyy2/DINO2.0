@@ -7,7 +7,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" href="img/logo.jpeg" type="image/x-icon">
+		<link rel="shortcut icon" href="img/dino/logo.jpeg" type="image/x-icon">
+        <script  src = "https://kit.fontawesome.com/3e26a1e3ce.js " crossorigin = "anónimo" ></script>
 		<!-- CSS here -->
             <link rel="stylesheet" href="./css/bootstrap.min.css">
             <link rel="stylesheet" href="./css/owl.carousel.min.css">
@@ -21,6 +22,7 @@
             <link rel="stylesheet" href="./css/nice-select.css">
             <link rel="stylesheet" href="./css/style.css">
             <link rel="stylesheet" href="./css/layout.css">
+       
    </head>
 
    <body>
@@ -31,7 +33,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="img/logo.jpeg" alt="">
+                    <img src="img/dino/logo.jpeg" alt="">
                 </div>
             </div>
         </div>
@@ -128,12 +130,12 @@
         <div class="slider-area ">
             <!-- Mobile Menu -->
             <div class="slider-active">
-                <div class="single-slider slider-height" data-background="assets/img/hero/h1_hero.jpg">
+                <div class="single-slider slider-height" data-background="img/hero/h1_hero.jpg">
                     <div class="container">
                         <div class="row d-flex align-items-center justify-content-between">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 d-none d-md-block">
                                 <div class="hero__img" data-animation="bounceIn" data-delay=".4s">
-                                    <img src="assets/img/hero/hero_man.png" alt="">
+                                    <img src="img/hero/hero_man.png" alt="">
                                 </div>
                             </div>
                             <div class="col-xl-5 col-lg-5 col-md-5 col-sm-8">
@@ -451,7 +453,7 @@
                     <div class="col-xl-4 col-lg-6">
                         <div class="single-category mb-30">
                             <div class="category-img">
-                                <img src="assets/img/categori/cat1.jpg" alt="">
+                                <img src="img/categori/cat1.jpg" alt="">
                                 <div class="category-caption">
                                     <h2>Owmen`s</h2>
                                     <span class="best"><a href="#">Best New Deals</a></span>
@@ -463,7 +465,7 @@
                      <div class="col-xl-4 col-lg-6">
                         <div class="single-category mb-30">
                             <div class="category-img text-center">
-                                <img src="assets/img/categori/cat2.jpg" alt="">
+                                <img src="img/categori/cat2.jpg" alt="">
                                 <div class="category-caption">
                                     <span class="collection">Discount!</span>
                                     <h2>Winter Cloth</h2>
@@ -475,7 +477,7 @@
                     <div class="col-xl-4 col-lg-6">
                         <div class="single-category mb-30">
                             <div class="category-img">
-                                <img src="assets/img/categori/cat3.jpg" alt="">
+                                <img src="img/categori/cat3.jpg" alt="">
                                 <div class="category-caption">
                                     <h2>Man`s Cloth</h2>
                                     <span class="best"><a href="#">Best New Deals</a></span>
@@ -1049,7 +1051,7 @@
                                         </div>
                                      </div>
                                     <div class="product-img">
-                                        <img src="img/Dino_01.jpg" alt="">
+                                        <img src="img/dino/Dino_01.jpg" alt="">
                                         <div class="new-product">
                                             <span>New</span>
                                         </div>
@@ -1077,7 +1079,7 @@
                                         </div>
                                      </div>
                                     <div class="product-img">
-                                        <img src="img/DINO_02.jpg" alt="">
+                                        <img src="img/dino/DINO_02.jpg" alt="">
                                     </div>
                                     <div class="detail-box">
                                         <h5>
@@ -1102,7 +1104,7 @@
                                         </div>
                                      </div>
                                     <div class="product-img">
-                                        <img src="img/Dino_03.jpg" alt="">
+                                        <img src="img/dino/Dino_03.jpg" alt="">
                                         <div class="new-product">
                                             <span>New</span>
                                         </div>
@@ -1131,7 +1133,7 @@
                                         </div>
                                      </div>
                                     <div class="product-img">
-                                        <img src="img/Dino_04.jpg" alt="">
+                                        <img src="img/dino/Dino_04.jpg" alt="">
                                     </div>
                                     <div class="detail-box">
                                         <h5>
@@ -1235,21 +1237,21 @@
                     <div class="client_review_slider owl-carousel">
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/yo.jpeg" alt="#">
+                                <img src="img/dino/yo.jpeg" alt="#">
                             </div>
                             <h3>"Gerente General"</h3>
                             <h5>- Maria Valverde</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/ashly.jpeg" alt="#">
+                                <img src="img/dino/ashly.jpeg" alt="#">
                             </div>
                             <h3>"Gerente Financiero".</h3>
                             <h5>- Ashly Ramos</h5>
                         </div>
                         <div class="single_client_review">
                             <div class="client_img">
-                                <img src="img/Josias.jpeg" alt="#">
+                                <img src="img/dino/Josias.jpeg" alt="#">
                             </div>
                             <h3>".</h3>
                             <h5>-Josias Nicaragua</h5>
@@ -1273,7 +1275,7 @@
                         <div class="single-footer-caption mb-30">
                              <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                <a href="index.php"><img src="img/logo/logo2_footer.png" alt=""></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
