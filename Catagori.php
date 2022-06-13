@@ -176,7 +176,9 @@
                                 </div>
                             </form>
 
-                          <!-- Nav Card -->
+                        </div> 
+                    </div>   
+              <!-- Nav Card -->
                 <div class="tab-content" id="nav-tabContent">
                     <!-- card one -->
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
