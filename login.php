@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <title>Login </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -167,6 +168,7 @@
                                         <input type="checkbox" id="f-option" name="selector">
                                         <label for="f-option">Remember me</label>
                                     </div>
+                                          <div class="g-recaptcha" data-sitekey="your_site_key"></div>
                                     <button type="submit" value="submit" class="btn_3">
                                         log in
                                     </button>
@@ -298,6 +300,12 @@
     <!-- Jquery Plugins, main Jquery -->	
     <script src="././js/plugins.js"></script>
     <script src="././js/main.js"></script>
+    
+    <script type="text/javascript">
+  var onloadCallback = function() {
+    alert("grecaptcha is ready!");
+  };
+</script>
 
 </body>
     
